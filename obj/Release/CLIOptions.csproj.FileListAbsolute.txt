@@ -1,0 +1,10 @@
+C:\code\CLIOptions\bin\Release\CLIOptions.exe.config
+C:\code\CLIOptions\bin\Release\CLIOptions.exe
+C:\code\CLIOptions\bin\Release\CLIOptions.pdb
+C:\code\CLIOptions\bin\Release\Mono.Options.dll
+C:\code\CLIOptions\bin\Release\Mono.Options.pdb
+C:\code\CLIOptions\obj\Release\CLIOptions.csproj.AssemblyReference.cache
+C:\code\CLIOptions\obj\Release\CLIOptions.csproj.CoreCompileInputs.cache
+C:\code\CLIOptions\obj\Release\CLIOptions.csproj.CopyComplete
+C:\code\CLIOptions\obj\Release\CLIOptions.exe
+C:\code\CLIOptions\obj\Release\CLIOptions.pdb
